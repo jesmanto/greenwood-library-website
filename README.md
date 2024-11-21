@@ -12,3 +12,5 @@ The following files where created in the main branch
 The following files were created by Morgan
 
 * [book_reviews.html](./book_reviews.html)
+
+Jammie Just updated the [events.html](./events.html) page
