@@ -8,3 +8,7 @@ The following files where created in the main branch
 * [about_us.html](./about_us.html)
 * [events.html](./events.html)
 * [contact_us.html](./contact_us.html)
+
+The following files were created by Morgan
+
+* [book_reviews.html](./book_reviews.html)
